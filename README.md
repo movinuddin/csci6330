@@ -5,6 +5,7 @@ Team:
 2. Sanjana Gutta
 3. Revanth Kumar
 
+Things to install: Jupyter Notebook, we need to pip install pyspark.
 
 CCFraudDetectionML.ipynb:
 This file has the code for the creating a ML model used for predicting if a credit card transaction is fraud or not.
