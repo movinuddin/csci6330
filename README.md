@@ -10,6 +10,8 @@ Things to install: Jupyter Notebook, we need to pip install pyspark.
 CCFraudDetectionML.ipynb:
 This file has the code for the creating a ML model used for predicting if a credit card transaction is fraud or not.
 
+Dataset Link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
 Steps followed to create the model:
 
 1. Initially we initialize the spark session.
